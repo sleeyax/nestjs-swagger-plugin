@@ -1,7 +1,7 @@
 {
-  "name": "@nestjs/swagger",
+  "name": "@sleeyax/nestjs-swagger-plugin",
   "version": "7.1.13",
-  "description": "Nest - modern, fast, powerful node.js web framework (@swagger)",
+  "description": "Custom Nest plugin (fork of @nestjs/swagger)",
   "author": "Kamil Mysliwiec",
   "license": "MIT",
   "repository": "https://github.com/nestjs/swagger",
